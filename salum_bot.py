@@ -14,10 +14,10 @@ print("Files in %r: %s" % (cwd, files))
 def random_line(fname):
     lines = open(fname).read().splitlines()
     return random.choice(lines)
-verbo=random_line('verbos.txt')
-verboIndicativo=random_line('verbo_indicativo.txt')
-randomWord=random_line('random_word.txt')
-ilustres=random_line('ilustres.txt')
+verbo=random_line('Diccionarios/verbos.txt')
+verboIndicativo=random_line('Diccionarios/verbo_indicativo.txt')
+randomWord=random_line('Diccionarios/random_word.txt')
+ilustres=random_line('Diccionarios/ilustres.txt')
 
 message= "Salum "+ verboIndicativo + " " + verbo +" "+ randomWord+ " con "+ ilustres + " en Durango Capital"
 print(message)
