@@ -28,7 +28,7 @@ draw= ImageDraw.Draw(image)
 draw.text(xy=(18,290),text= message, fill=(0,0,0),font=font_type)
 image.show()
 
-token='EAAH2K85Qh8MBAHZA5dyH2ZCmeVW7SvpvT8Q6prbJdYQXYXqU66FWBQGDhiZCeV1PKV3KAD2sEm7ese1bjnHrfZAIxhV48MXdXMEZBeu4Rx11MkQQMurEhmOBPHPlweUOWp3Cmc60M5eXThmdZCBKIRt4bXtUBtej4cCHLpW1vnUZAZBdDvrM4ry5wMCdZARTcO2cYntFg8Ib0ZBh3b0GCVuJaClMqM3C994ymDfeVJZCuvAxQZDZD'
+token='Insert_Token_Here'
 fb=facebook.GraphAPI(access_token=token)
 fb.put_object(parent_object='me',connection_name='feed', message="Vamos con doña irma")
 
