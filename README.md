@@ -11,8 +11,8 @@ Semi-random image generator, with random caption coupled with the syntactic sens
 - Image of what it should look like the final result
 - You gonna need to install the Pillow Modules
 
-![](IMGSalum/git-muestra.png)
 
+<img src="IMGSalum/git-muestra.png">
 
 
 ### Clone
