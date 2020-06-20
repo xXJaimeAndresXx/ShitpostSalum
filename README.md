@@ -1,4 +1,4 @@
-# ShitpostSalum
+# Shitpost Salum
 Semi-random image generator, with random caption coupled with the syntactic sense. Using as a spokesman the well-known municipal president Salum.
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
@@ -9,10 +9,12 @@ Semi-random image generator, with random caption coupled with the syntactic sens
 
 - The program is developed on  `python`
 - Image of what it should look like the final result
+<img src="https://github.com/xXJaimeAndresXx/ShitpostSalum/blob/master/IMGsalum/git-muestra.png">
+
 - You gonna need to install the Pillow Modules
 
 
-<img src="https://github.com/xXJaimeAndresXx/ShitpostSalum/blob/master/IMGsalum/git-muestra.png">
+
 
 
 ### Clone
