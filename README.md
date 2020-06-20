@@ -12,7 +12,7 @@ Semi-random image generator, with random caption coupled with the syntactic sens
 - You gonna need to install the Pillow Modules
 
 
-<img src="IMGSalum/git-muestra.png">
+<img src="https://github.com/xXJaimeAndresXx/ShitpostSalum/blob/master/IMGsalum/git-muestra.png">
 
 
 ### Clone
