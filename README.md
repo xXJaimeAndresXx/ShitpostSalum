@@ -41,6 +41,8 @@ $ pip install facebook-sdk
 
 ## To Do
 
--Add the complete publishing token tool for Facebook, im waiting to App Aprovall to start the deployment stage.
+-To get into automation on this app, i recommend you to use GCP or AWS free tier.
+
+## ¡HAPPY BOT APPRECIATION!
 
 <img src="https://i.kym-cdn.com/photos/images/facebook/001/682/665/3fa.jpg">
