@@ -39,9 +39,10 @@ $ pip install facebook-sdk
 
 ---
 
-## To Do
+## ¿Whats Next?
 
 -To get into automation on this app, i recommend you to use GCP or AWS free tier.
+-If Facebook doesnt approve your APP you can use the `https://maxbots.ddns.net/token/?` Token Generator, to have de neccesary permissions to publish on your page.
 
 ## ¡HAPPY BOT APPRECIATION!
 
